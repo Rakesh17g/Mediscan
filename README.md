@@ -28,7 +28,6 @@ MediScan is a modern, responsive hospital web app interface focused on deliverin
 
 ![MediScan Screenshot](./mediscan.png)
 
----
 
 ---
 
@@ -69,7 +68,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For feedback or collaborations:  
-**Your Name** – [your.email@example.com](mailto:rakesh1719@gmail.com)  
+**Rakesh.G** – [rakesh1719@gmail.com](mailto:rakesh1719@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/rakesh-g-261666350/) | [Portfolio](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
 
 
