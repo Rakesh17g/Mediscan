@@ -4,7 +4,7 @@ MediScan is a modern, responsive hospital web app interface focused on deliverin
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🧭 Clean and intuitive navigation bar (Home, Services, Doctors, About, Contact)
 - 🆘 One-click Emergency 911 button
@@ -26,7 +26,7 @@ MediScan is a modern, responsive hospital web app interface focused on deliverin
 
 ## 📸 Screenshots
 
-![MediScan Screenshot](./screenshots/mediscan-home.png)
+![MediScan Screenshot](./mediscan.png)
 
 > *(Make sure you have this screenshot in a `screenshots/` folder inside your repo)*
 
@@ -36,7 +36,7 @@ MediScan is a modern, responsive hospital web app interface focused on deliverin
 
 ## 📲 Live Demo
 
-[🔗 View Live](https://your-deployment-url.vercel.app)
+[🔗 View Live](https://v0-hospital-app-design-xi.vercel.app/)
 
 ---
 
@@ -71,8 +71,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 📧 Contact
 
 For feedback or collaborations:  
-**Your Name** – [your.email@example.com](mailto:your.email@example.com)  
-[LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+**Your Name** – [your.email@example.com](mailto:rakesh1719@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/rakesh-g-261666350/) | [Portfolio](https://v0-rakesh-dev-portfolio-website-roan.vercel.app/)
 
 
 
