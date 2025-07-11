@@ -28,8 +28,6 @@ MediScan is a modern, responsive hospital web app interface focused on deliverin
 
 ![MediScan Screenshot](./mediscan.png)
 
-> *(Make sure you have this screenshot in a `screenshots/` folder inside your repo)*
-
 ---
 
 ---
